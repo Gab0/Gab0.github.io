@@ -1,0 +1,25 @@
+
+<nav>
+  <ul>
+    {% for nav in site.data.nav %}
+      {% if nav.subcategories != null %}
+
+          <a href="{{ site.url }}{{ nav.url }}">{{ nav.title }} ▼</a>
+
+          {% for subcategory in nav.subcategories %}
+	<a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}
+          {% endfor %}
+
+
+      {% elsif nav.title == page.title %}
+
+           <a href="{{ nav.url }}">{{ nav.title }}</a>
+
+      {% else %} 
+
+          <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a>
+
+      {% endif %}
+    {% endfor %}
+
+</nav>  

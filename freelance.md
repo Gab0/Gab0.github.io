@@ -32,6 +32,6 @@ permalink: /freelance
 + Rust
 + Scala
 
-
+<br>
 [Profile at Upwork](https://www.upwork.com/freelancers/~017853fd1e7d7b2048)
  

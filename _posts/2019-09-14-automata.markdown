@@ -8,7 +8,7 @@ categories: science
 
 A few days back I stumbled on this:
 
-![Rule 30](/assets/Rule30-256-rows.png)
+![Rule 30](https://upload.wikimedia.org/wikipedia/commons/a/aa/Rule30-256-rows.png)
 
 This image was generated via simulation. Here is how it happens:
 row by row, starting at the top, the next row will be entirely defined
@@ -53,7 +53,7 @@ Cellular automata are described by Stephen Wolfram in his book "A New Kind of Sc
 where he explains the simple aspect of the technology and underlying discussion
 about their computing power, in a way that is almost philosophical.
 
-![A New Kind Of Science book cover](https://en.wikipedia.org/wiki/A_New_Kind_of_Science#/media/File:A_new_kind_of_science.PNG)
+![A New Kind Of Science book cover](https://upload.wikimedia.org/wikipedia/en/d/d9/A_new_kind_of_science.PNG)
 
 Of course there is more to it than what says this barebones blog post (cited book has over 1K pages).
 So I should cover more of it in the next!

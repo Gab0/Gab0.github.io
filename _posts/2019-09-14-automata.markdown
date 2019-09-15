@@ -1,0 +1,65 @@
+---
+layout: post
+title: 'Cellular automata'
+categories: science
+--- 
+
+# Cellular Automata
+
+A few days back I stumbled on this:
+
+![Rule 30](/assets/Rule30-256-rows.png)
+
+This image was generated via simulation. Here is how it happens:
+row by row, starting at the top, the next row will be entirely defined
+by the previous row, according to a rule.
+In the image we see rule 30 in action, it's defined as:
+
+00011110
+
+What is this? Well, this is a byte of value 30.
+This byte also defines if a point will be black (or "alive") or white (or "dead")
+based on the state of the point right above it (previous row) and the states of the two flanking points of that 
+previous row point.
+
+| Previous row values | 111 | 110 | 101 | 100 | 011 | 010 | 001 | 000 |
+|---------------------|-----|-----|-----|-----|-----|-----|-----|-----|
+| Current Row Value   | 0   | 0   | 0   | 1   | 1   | 1   | 1   | 0   |
+
+
+The initial state of the simulation, in this case, was a black cell (has a value of 1) right in the middle of row zero (top row).
+If we are on a space with 100 columns, the middle one for the starting state is col 50.
+Starting our simulation, the new row at column zero has a value of zero: cell at top left of this point
+does not exist at index -1 so we have zero, cell at the top has a value of zero, and top right cell is zero again, so back to the our Rule 30 table
+the 000 value transaltes as 0 for this new cell. In the same way, the cell at new row & column 50 has a value of 1 (from 010 at rule defs).
+
+What makes this fascinating is that by following the simple rule row by row, the simulation creates what seems is pure chaos as
+we see on the patterns that emerge in the middle/bottom section of Rule 30's simulation image.
+In other words, the complex image that requires a lot of information to store can be represented
+in its entirety by knowing the base rule and iterating over it.
+This informational asymmetry exhibited by celular automata was even
+subject of research into the field of cryptography in the 80's and 90's, but
+seems it had gone nowhere (yet) as the scientific paper world have not heard about crypto-cell-automata in the past two decades.
+
+Also, this pattern of simple rules yelding complex structures resembles living organisms.
+Structures like the brain and eyes are overwhelmingly complex, yet the number of genes
+responsible for building them are comparatively limited. "Cellular automata" wasn't named
+only after the cells of the matrix that holds the simulation, after all :3
+
+
+# A new kind of science
+
+Cellular automata are described by Stephen Wolfram in his book "A New Kind of Science",
+where he explains the simple aspect of the technology and underlying discussion
+about their computing power, in a way that is almost philosophical.
+
+![A New Kind Of Science book cover](https://en.wikipedia.org/wiki/A_New_Kind_of_Science#/media/File:A_new_kind_of_science.PNG)
+
+Of course there is more to it than what says this barebones blog post (cited book has over 1K pages).
+So I should cover more of it in the next!
+
+
+# More information:
+
+https://plato.stanford.edu/entries/cellular-automata/
+https://en.wikipedia.org/wiki/Rule_30

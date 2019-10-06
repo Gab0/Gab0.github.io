@@ -1,6 +1,6 @@
 ---
 title: Freelancer Developer
-layout: home
+layout: page
 permalink: /freelance
 ---
 

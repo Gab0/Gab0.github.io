@@ -35,11 +35,6 @@ this should pure insanity, there is no evidence of the leak. Or there is?
 
 # An old tale
 
-Back in 2003, we a had a SARS pandemy involving coronavirus.
-
-
-
-
 A study published in 2015 [1] described a new spike protein detected in bat coronaviruses
 capable of recognizing human cell receptors very well, which in the case of this group of coronavirus the ACE2.
 Altough bat strains are not capable of infecting humans, bats may display ACE2 or analogs that are compatible with human receptors.
@@ -58,8 +53,8 @@ Conspiration theories arose, but it was shown that SARS-CoV-2 differs from that 
 bases of RNA, so they cannot be the same virus.
 Important to note, altough the 2015 chimera was developed in California,
 one of the coauthors is from the Wuhan Institute of Virology.
+Also, a lot of research conducted in WIV is about CoVs, following the SARS epidemy that happened in 2003-2004.
 
-A lot of research conducted in WIV is about CoVs, following the SARS epidemy that happened in 2003-2004.
 
 # Genetics alone won't tell
 
@@ -77,8 +72,12 @@ It is very possible they develop certain techiniques that are not revealled to t
 Also, it is very possible to do a simulation of natural evolution after you make a genome do what you want altough this
 process is largely undocumented, just theoretically possible. Maybe this practice is widespread in bioweapon design?
 Because nowadays any infectious disease will have their pathogenic agents sequenced and analyzed by researchers all around the world.
-There is a tiny bit of evidence of this make up, as the SARS-CoV-2 appears to have accumulated a ratio
+There is a tiny but interesting bit of evidence of this evolutionary make up, as the SARS-CoV-2 appears to have accumulated a ratio
 of non-synonymous by synonymous mutations that is too low compared to what is observed in similar viruses [3].
+
+
+
+
 It is complicated to trace such practices by looking at genomics alone, 
 as there is no fundamental biological fingerprint of a modified genome,
 such as unavoidable DNA motifs that happen only in genetically modified organisms due to the process itself.
@@ -87,7 +86,7 @@ There are only investigated assumptions.
 
 
 
-# Stealth Bioweapons?
+# Stealth Bioweapon?
 
 Another recent study shows that about half of the hosts of CoV-2 are asymptomatic[4].
 This was known since months ago but now they have robust data to back it up.
@@ -96,6 +95,14 @@ Of course it makes much more difficult to isolate patients from the rest of the 
 to stop the virus from circulating. In this case, the only resort seems a global lockdown as most countries are doing.
 The impact in the economy of this idle period, in what they call the 'second wave' will be brutal.
 In a few months for now, the world may see mass unemployment, riots, psychological disease due to stress, and so on... this may last for a long time.
+
+Another group of researchers pointed that if the virus was purposely built as a bioweapon, it would
+be designed in a manner to have a perfect binding to human receptors, maximizing virulency.
+A in-silico study with the S protein revealed a configuration that would bind 10x better to human cells than
+SARS-CoV-2's S protein, and that would be a proof that it was not purposely built.
+Again, wouldn't it make very obvious that it was designed? It could have been made not so efficient to hide the effort, 
+or maybe to avoid uncontrollable dispersion in the human population.
+
 
 The Bioweapon tale is still a conspiracy theory for now, since there is zero concrete proof.
 But even if it is not a bioweapon, it is acting as one.
@@ -109,7 +116,7 @@ This would make it a less obvious bioweapon, while retaining destructive force a
 
 
 
-# China
+# The problem with China
 
 With high populational density and questionable eating habitis, this country suffers from odd diseases such 
 as the current bulbonic plague due to rabbit meat consumption [5].

@@ -1,0 +1,137 @@
+---
+layout: post
+title: 'Where do coronaviruses come from?'
+categories: science; biology; virology; coronavirus; politics
+
+---
+
+
+# The Pandemy
+
+So, by today we are a few months inside the coronavirus epidemic, which started 
+in the last months of 2019. The epicenter was the chinese city of Wuhan,
+where several cases started appearing in late november, then spread across the globe
+most likely thru Wuhan's airport. The responsible is SARS-CoV-2, a coronavirus
+considered to have originated from the horseshoe bat. Coronaviruses causes
+disease across the globe, already, probably since the dawn of humanity, but
+they never raised much concern since the usual major symptom in humans is a runny nose.
+The infection by new virus strain, however, can cause lung failure which may send you
+straight to intensive care and may cause death, especially in the elder and immunocompromised.
+
+
+# Lab Leak?
+
+In a few kilometers (3h25m hike, according to google maps) from the Wuhan Seafood market sits the Wuhan Institute of Virology,
+which includes the first Biosafety level 4 laboratory in China, Its operation started in 2015.
+BL-4 labs deal with pathogens that may cause death, and their extensive safety protocols includes the
+use of a pressurized suit that resembles space gear.
+
+Of course, the lab's proximity with the said source of the epidemy raised
+all sorts of conspiracy theories. Rumours said China was just developing bioweapons
+and due to a lapse in the safety systems, it was released right into the seafood market.
+Altough the chief researcher of the lab says the leak scenario is not ruled out
+this should pure insanity, there is no evidence of the leak. Or there is?
+
+
+# An old tale
+
+Back in 2003, we a had a SARS pandemy involving coronavirus.
+
+
+
+
+A study published in 2015 [1] described a new spike protein detected in bat coronaviruses
+capable of recognizing human cell receptors very well, which in the case of this group of coronavirus the ACE2.
+Altough bat strains are not capable of infecting humans, bats may display ACE2 or analogs that are compatible with human receptors.
+Nonetheless, the group of researchers patched up together a chimeric
+virus made from that spike protein with a human coronvirus backbone just to prove the point. 
+How ironic... of course it raised a lot of backlash virologists at that time, who were
+concerned about the safety of making dangerous viruses in the lab, but the chimera was built and the
+it was very capable of infecting human cells, as predicted.
+The main objective of the paper was to demonstrate how iminent epidemy featuring 
+that spike protein was, and maybe if more effort was put into deveoping vaccines since
+that day the situation wouldn't escalate to what we are living now.
+
+SARS-CoV-2 is equivalent to what was built in the 2015 study: the highly effective S protein coupled
+with a backbone capable of infecting humans.
+Conspiration theories arose, but it was shown that SARS-CoV-2 differs from that chimeric virus in more than 5k
+bases of RNA, so they cannot be the same virus.
+Important to note, altough the 2015 chimera was developed in California,
+one of the coauthors is from the Wuhan Institute of Virology.
+
+A lot of research conducted in WIV is about CoVs, following the SARS epidemy that happened in 2003-2004.
+
+# Genetics alone won't tell
+
+Aiming to debunk conspirationists of coronavirus as PRC's bioweapon,
+a paper was written in march 2020 to show there is no evidence of genetic manipulation
+in SARS-CoV-2's genome [2], by looking at the virus genomic features.
+But the two main arguments presented here are not that definitive.
+
+
+1. SARS-CoV-2 does not show a known backbone for genetic engineering of coronaviruses, so it is probably not made by humans.
+2. The mutation patterns do resemble what was observed in this type of virus, in natura.
+
+Both arguments seem rather weak. The Wuhan Virology Institute is a laboratory controlled by the PRC, and share knowledge with all researches in China.
+It is very possible they develop certain techiniques that are not revealled to the world, such as backbones for virus engineering.
+Also, it is very possible to do a simulation of natural evolution after you make a genome do what you want altough this
+process is largely undocumented, just theoretically possible. Maybe this practice is widespread in bioweapon design?
+Because nowadays any infectious disease will have their pathogenic agents sequenced and analyzed by researchers all around the world.
+There is a tiny bit of evidence of this make up, as the SARS-CoV-2 appears to have accumulated a ratio
+of non-synonymous by synonymous mutations that is too low compared to what is observed in similar viruses [3].
+It is complicated to trace such practices by looking at genomics alone, 
+as there is no fundamental biological fingerprint of a modified genome,
+such as unavoidable DNA motifs that happen only in genetically modified organisms due to the process itself.
+There are only investigated assumptions.
+
+
+
+
+# Stealth Bioweapons?
+
+Another recent study shows that about half of the hosts of CoV-2 are asymptomatic[4].
+This was known since months ago but now they have robust data to back it up.
+Previous SARS pandemics were easily contained, but those diseases didn't show this stealthy, gamechanging trait.
+Of course it makes much more difficult to isolate patients from the rest of the population, which is required
+to stop the virus from circulating. In this case, the only resort seems a global lockdown as most countries are doing.
+The impact in the economy of this idle period, in what they call the 'second wave' will be brutal.
+In a few months for now, the world may see mass unemployment, riots, psychological disease due to stress, and so on... this may last for a long time.
+
+The Bioweapon tale is still a conspiracy theory for now, since there is zero concrete proof.
+But even if it is not a bioweapon, it is acting as one.
+Several countries tried to build bioweapons. Then a few years later they quit, citing it was not cost-effective.
+Maybe they were with the 'wrong' mindset? Anthrax, a famous bioweapon, can kill people exposed to it very quickly along with ebola which was also tried.
+It is unknown which types of modifications those natural pathogens suffered to be used as weapons, if any. This is probably classified information 
+from the involved governments.
+SARS-CoV-2, instead, although highly infectious, will lead to critical cases with deaths in only a small portion of the population.
+This would make it a less obvious bioweapon, while retaining destructive force against countries due to economic impact.
+
+
+
+
+# China
+
+With high populational density and questionable eating habitis, this country suffers from odd diseases such 
+as the current bulbonic plague due to rabbit meat consumption [5].
+Sometimes such diseases step up into local epidemies or global pandemies.
+They are free to pursue any lifestyle they want, except when it affects the rest of the world in such manner.
+It is rather ironic the country, with their own epidemy-prone environment that leads to a set of protocols
+on how to act and contain an epidemy will suffer less than most contries the virus reached, whose are comparatively unprepared
+to deal with such issues. Will every country be required to have the same anti-epidemic infra structure to contain pathogens thei did not 
+'incubate'? Is China (or any other country that exports epidemies due to poor practices) morally obligued to help its neighbours with such cases?
+The PRC also seem to disregard copyright laws, CO2 emission levels and worker rights, some intervention needs to be done.
+
+
+
+
+
+
+
+# References
+
+[1] [A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence.](https://www.ncbi.nlm.nih.gov/pubmed/26552008)
+[2] [The proximal origin of SARS-CoV-2](https://www.nature.com/articles/s41591-020-0820-9)
+[3] [Comparative genomic analysis revealed specific mutation pattern between human
+coronavirus SARS-CoV-2 and Bat-SARSr-CoV RaTG13](https://www.biorxiv.org/content/10.1101/2020.02.27.969006v1.full.pdf)
+[4] [Asymptomatic and Presymptomatic SARS-CoV-2 Infections in Residents of a Long-Term Care Skilled Nursing Facility](https://www.cdc.gov/mmwr/volumes/69/wr/mm6913e1.htm)
+[5] [China records third case of deadly bulbonic plague](https://www.theguardian.com/world/2019/nov/18/china-records-third-case-of-deadly-bubonic-plague)

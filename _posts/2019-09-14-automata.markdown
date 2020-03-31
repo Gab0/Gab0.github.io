@@ -15,7 +15,7 @@ row by row, starting at the top, the next row will be entirely defined
 by the previous row, according to a rule.
 In the image we see rule 30 in action, it's defined as:
 
-00011110
+<b>00011110</b>
 
 What is this? Well, this is a byte of value 30.
 This byte also defines if a point will be black (or "alive") or white (or "dead")

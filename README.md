@@ -1,1 +1,1 @@
-A ![blog](https://Gab0.github.io).
+My personal ![blog](https://Gab0.github.io) :3

@@ -5,6 +5,9 @@ categories: science; biology; virology; coronavirus; politics
 
 ---
 
+With limited options of leisure, I wrote this text on the current coronavirus pandemy.
+I'm just organizing ideas here, and I recommend you to just read the linked articles at the bottom of the page.
+
 
 # The Pandemy
 
@@ -98,14 +101,18 @@ In a few months for now, the world may see mass unemployment, riots, psychologic
 
 Another group of researchers pointed that if the virus was purposely built as a bioweapon, it would
 be designed in a manner to have a perfect binding to human receptors, maximizing virulency.
-A in-silico study with the S protein revealed a configuration that would bind 10x better to human cells than
+Decade long in-silico studies with the S protein revealed mutation configurations that would bind better to human cells than
 SARS-CoV-2's S protein, and that would be a proof that it was not purposely built.
-Again, wouldn't it make very obvious that it was designed? It could have been made not so efficient to hide the effort, 
+Again, wouldn't it make very obvious that it was human designed? It could have been made not so efficient to hide the effort, 
 or maybe to avoid uncontrollable dispersion in the human population.
+SARS-CoV-2's binding affinity to human cells is 10x higher than SARS-CoV-1's, 
+which is the most impactiful morphologic difference between the two agents to the jump in virulence we are observing
+between the outbreaks of 2003/2004 and today's.
 
 
-The Bioweapon tale is still a conspiracy theory for now, since there is zero concrete proof.
-But even if it is not a bioweapon, it is acting as one.
+The Bioweapon tale is still a conspiracy theory, as there is no concrete proof.
+But even if it is not a bioweapon, it might be acting as on, since the global lockdown
+just to avoid the overcrowd of hospitals are as impactiful as any weapon could be.
 Several countries tried to build bioweapons. Then a few years later they quit, citing it was not cost-effective.
 Maybe they were with the 'wrong' mindset? Anthrax, a famous bioweapon, can kill people exposed to it very quickly along with ebola which was also tried.
 It is unknown which types of modifications those natural pathogens suffered to be used as weapons, if any. This is probably classified information 
